@@ -1,0 +1,127 @@
+ |00
+united states|10
+france|30
+monaco|379
+bulgaria|380
+slovenia|383
+croatia|385
+bosnia and herzegovina|387
+montenegro|389
+kosovo|390
+germany|40
+japan|450
+russia|460
+kyrgyzstan|470
+taiwan|471
+estonia|474
+latvia|475
+azerbaijan|476
+lithuania|477
+uzbekistan|478
+sri lanka|479
+philippines|480
+belarus|481
+ukraine|482
+turkmenistan|483
+moldova|484
+armenia|485
+georgia|486
+kazakhstan|487
+tajikistan|488
+hong kong|489
+united kingdom|50
+greece|520
+lebanon|528
+cyprus|529
+albania|530
+north macedonia|531
+malta|535
+ireland|539
+belgium|540
+luxembourg|549
+portugal|560
+iceland|569
+denmark|570
+faroe islands|575
+greenland|579
+poland|590
+romania|594
+hungary|599
+south africa|60
+ghana|603
+senegal|604
+oman|607
+bahrain|608
+mauritius|609
+morocco|611
+algeria|613
+nigeria|615
+kenya|616
+cameroon|617
+ivory coast|618
+tunisia|619
+tanzania|620
+syria|621
+egypt|622
+brunei|623
+libya|624
+jordan|625
+iran|626
+kuwait|627
+saudi arabia|628
+united arab emirates|629
+qatar|630
+namibia|631
+finland|640
+china|690
+norway|70
+israel|729
+sweden|730
+guatemala|740
+el salvador|741
+honduras|742
+nicaragua|743
+costa rica|744
+panama|745
+dominican republic|746
+mexico|750
+canada|754
+venezuela|759
+switzerland|760
+liechtenstein|769
+colombia|770
+uruguay|773
+peru|775
+bolivia|777
+argentina|778
+chile|780
+paraguay|784
+ecuador|786
+brazil|789
+italy|80
+san marino|820
+vatican city|839
+spain|840
+andorra|849
+cuba|850
+slovakia|858
+czech republic|859
+serbia|860
+mongolia|865
+north korea|867
+turkey|868
+netherlands|870
+south korea|880
+myanmar|883
+cambodia|884
+thailand|885
+singapore|888
+india|890
+vietnam|893
+pakistan|896
+indonesia|899
+austria|90
+australia|930
+new zealand|940
+malaysia|955
+macau|958
