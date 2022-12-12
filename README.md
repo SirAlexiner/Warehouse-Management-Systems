@@ -15,8 +15,9 @@ Torgrim Thorsen - [@SirAlexiner](https://github.com/SirAlexiner)
 ## Login Information
 
 DISCLAIMER:
-The application should not be distributed with the password as it is now.
-The login feature of the application is only to show a concept.
+Any viable commercial release of the application would not be distributed with the username and password, 
+however the login feature of the application is only to show a concept.
+as such the login information can't be changed.
 
 ## Username:
 "root"
