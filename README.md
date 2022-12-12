@@ -32,6 +32,5 @@ They can be found in the application folder,
 or the root folder where the application was deployed from.
 
 WARNING:
-This might cause the program to not load the product or category correctly,
-The next time it is used.
+This might cause the program to not load the product or category correctly the next time the application is used.
 
