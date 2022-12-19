@@ -1,3 +1,5 @@
+![a Logo for the repository](http://url/to/img.png)
+
 # (WMS) Warehouse Management Systems
 
 This software is developed to be used by warehouse companies.
